@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Check_Grade\Check_Grade\bin\Debug\Check_Grade.exe.config
+D:\DEV\C#\Practice\Check_Grade\Check_Grade\bin\Debug\Check_Grade.exe
+D:\DEV\C#\Practice\Check_Grade\Check_Grade\bin\Debug\Check_Grade.pdb
+D:\DEV\C#\Practice\Check_Grade\Check_Grade\obj\Debug\Check_Grade.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Check_Grade\Check_Grade\obj\Debug\Check_Grade.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Check_Grade\Check_Grade\obj\Debug\Check_Grade.exe
+D:\DEV\C#\Practice\Check_Grade\Check_Grade\obj\Debug\Check_Grade.pdb
